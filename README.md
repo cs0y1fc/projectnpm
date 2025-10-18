@@ -23,7 +23,6 @@ Make sure you have Node.js and npm (or any other package manager like yarn or pn
 1.  Clone the repository to your local machine:
     ```sh
     git clone https://github.com/cs0y1fc/projectnpm.git
-    git clone https://github.com/your-username/projectnpm.git
     ```
 2.  Navigate into the project directory:
     ```sh
