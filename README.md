@@ -1,4 +1,4 @@
-# Project NPM
+# Project NPM package
 
 This is a simple demonstration project created with Vite. The main purpose of this repository is to showcase how to import and use a custom npm package (`@cs0y1fc/showdatetime`) in a modern JavaScript frontend application.
 
