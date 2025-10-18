@@ -3,9 +3,11 @@ import showdatetime from '@cs0y1fc/showdatetime';
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>Hola, Vite!</h1>
+    <h1>Hola, IT Academy!</h1>
     <p class="read-the-docs">
-      Hem importat el nostre paquet de npm. Revisa la consola del navegador!
+      Has importat el paquet "showdatetime" de npm.
+      
+      Revisa la consola del navegador!
     </p>
   </div>
 `;
